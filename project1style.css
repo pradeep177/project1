@@ -1,0 +1,36 @@
+*{
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+     padding-left: 200px; 
+     padding-right: 200px;
+}
+
+
+#box1{
+    border: 1px solid black;
+    width: fit-content;
+    text-align: center;
+}
+#box2{
+    border: 1px solid black;
+    width: fit-content;
+    text-align: center;
+}
+#box3{
+    padding-top: 50px;
+    font-size: 40px;
+} 
+#box4{
+    border: 1px solid black;
+    width: fit-content;
+    text-align: center;
+}
+#box5{
+    border: 1px solid black;
+    width: fit-content;
+    text-align: center;
+}
